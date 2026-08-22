@@ -3,9 +3,10 @@
 
 
 ##  Document changes
-* 21.Aug.2026: Added working ideas and an OC character.
-* 20.Aug.2026: Initial version.
-* 18.Aug.2026: Original draft based on discord conversation.
+*  23.Aug.2026: Added the *factions* section and preliminary ideas on the Kilrathi [kingmakeress].
+*  21.Aug.2026: Added working ideas and an OC character [kingmakeress].
+*  20.Aug.2026: Initial version [kingmakeress].
+*  18.Aug.2026: Original draft based on discord conversation [kingmakeress].
 
 
 ##  Outline
@@ -64,6 +65,7 @@ The Dan Harmon's (*Community*, *Rick and Morty*) hero journey [link](https://www
 
 The basic rules for coordinating the contributors follow:
 *  Do weekly or bi-weekly meetings to refine this document and/or the chapters.
+*  Send the agenda at least three days earlier to the participants have sufficient time to organize their notes.
 
 
 ##  Working ideas
@@ -102,6 +104,14 @@ The proposed ending avoids the problem of blasting Kilrathi civilians with the T
 **Maverick:**  As a young pilot, he is the rising star of Tiger's Claw. He has more than skills. More like Obi Wan, not so much like Luke Skywalker. Has flaws.
 
 **Colonel Kong Yun (OC):**  Commander of the Claw's Marines. Will probably be given more time in ground missions or when boarding ships. Maybe he and his Marines help from outside the Confed Marines inside Drayman in SM2 to retake the ship.
+
+
+##  Factions
+
+
+**Kilrathi:**  Villains can make or break a story, therefore Kilrathi must be interesting. Primarily they should have convincing motives with respect to their culture and history, not necessarily in the way Terrans perceive them. [kingmakeress]
+
+**Terrans:**  More like United Nations in space? [kingmakress]
 
 
 ##  Actions
