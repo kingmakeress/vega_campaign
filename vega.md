@@ -85,7 +85,7 @@ The Black Lance did not come out of the blue. Therefore, hints should be placed 
 
 Vaquero is an agent of the Black Lance. His smooth talking and his laid back attitude in conjunction with his relatively high kill score make him loveable. After all, he is the everyday man everyone can relate to after a couple of beers. Being an approachable officer makes his popular with enlisted personnel. Also this explains his low profile in the game as he is rather cautious. When he is shot down, as it happens canonically in WC3, his plans are thwarted. [kingmakeress]
 
-Cobra, although being the most obvious choice for being a Black Lance agent, is more a liability as she talks too much. Still, she is manipulated easily by Vaquero because of her experiences. [kingmakeress]
+Cobra, although being the most obvious choice for being a Black Lance agent, is more a liability as in-universe she talks too much and also she is prone to acting carelessly. Still, she is manipulated easily by Vaquero because of her experiences. Moreover, out-of-universe she would be way too obvious a choice. [kingmakeress]
 
 In WC2 Thrakath's reasons for destroying the shipyards to deny them to Confed and the rebels are further explained.
 
@@ -93,7 +93,7 @@ Thrakath in his own story is the hero. He has only daughters from his concubines
 
 Thrakath is killed in an space duel with Maverick.
 
-Admiral Kahl may appear .. after all he hasn't run into Grayson Burrows yet. [kingmakeress]
+Admiral Kahl may appear as one of the secondary antagonists .. after all he hasn't run into Grayson Burrows yet. [kingmakeress]
 
 The proposed ending avoids the problem of blasting Kilrathi civilians with the Templor bomb.
 
@@ -109,7 +109,7 @@ The proposed ending avoids the problem of blasting Kilrathi civilians with the T
 ##  Factions
 
 
-**Kilrathi:**  Villains can make or break a story, therefore Kilrathi must be interesting. Primarily they should have convincing motives with respect to their culture and history, not necessarily in the way Terrans perceive them. [kingmakeress]
+**Kilrathi:**  Villains can make or break a story, therefore Kilrathi must be interesting. Primarily they should have convincing motives with respect to their culture and history, not necessarily in the way Terrans perceive them. A good starting point would be the Confederation Handbook which has an elaborate psychological profile of the Kilrathi military as well as Freedom Flight which portrays the Kilrathi society [kingmakeress]
 
 **Terrans:**  More like United Nations in space? [kingmakress]
 
