@@ -103,7 +103,7 @@ The proposed ending avoids the problem of blasting Kilrathi civilians with the T
 
 **Maverick:**  As a young pilot, he is the rising star of Tiger's Claw. He has more than skills. More like Obi Wan, not so much like Luke Skywalker. Has flaws.
 
-**Colonel Kong Yun (OC):**  Commander of the Claw's Marines. Will probably be given more time in ground missions or when boarding ships. Maybe he and his Marines help from outside the Confed Marines inside Drayman in SM2 to retake the ship.
+**Colonel Kong Yun (OC):**  Commander of the Claw's Marines. Kong is his family name and Yun is his first name. Will probably be given more time in ground missions or when boarding ships. Maybe he and his Marines help from outside the Confed Marines inside Drayman in SM2 to retake the ship.
 
 
 ##  Factions
@@ -116,5 +116,5 @@ The proposed ending avoids the problem of blasting Kilrathi civilians with the T
 
 ##  Actions
 
-*  Reach out to Ben for advice and lore.
+*  Reach out to LOAF for advice on lore.
 *  Contact remake developers and try to find common ground lore-wise. Still, respect their work as they are independent projects and possibly way too far in development for major changes.
