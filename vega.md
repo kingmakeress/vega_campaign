@@ -4,9 +4,9 @@
 
 ##  Document changes
 *  23.Aug.2026: Added the *factions* section and preliminary ideas on the Kilrathi [kingmakeress].
-*  21.Aug.2026: Added working ideas and an OC character [kingmakeress].
+*  21.Aug.2026: Added working ideas and an OC character [DireWolf + kingmakeress].
 *  20.Aug.2026: Initial version [kingmakeress].
-*  18.Aug.2026: Original draft based on discord conversation [kingmakeress].
+*  18.Aug.2026: Original draft based on discord conversation [DireWolf + kingmakeress].
 
 
 ##  Outline
