@@ -3,10 +3,11 @@
 
 
 ##  Document changes
-*  23.Aug.2026: Added the *factions* section and preliminary ideas on the Kilrathi [kingmakeress].
-*  21.Aug.2026: Added working ideas and an OC character [DireWolf + kingmakeress].
-*  20.Aug.2026: Initial version [kingmakeress].
-*  18.Aug.2026: Original draft based on discord conversation [DireWolf + kingmakeress].
+*  25.Aug.2026: Added ideas on stealth (not cloaked) fighters and early Confederation attempts to develop missile boats. [kingmakeress]
+*  23.Aug.2026: Added the *factions* section and preliminary ideas on the Kilrathi. [kingmakeress]
+*  21.Aug.2026: Added working ideas and an OC character. [DireWolf + kingmakeress]
+*  20.Aug.2026: Initial version. [kingmakeress]
+*  18.Aug.2026: Original draft based on discord conversation. [DireWolf + kingmakeress]
 
 
 ##  Outline
@@ -77,7 +78,11 @@ The Tiger's Claw has escorts, possibly a frigate and two or three destroyers sim
 
 Captain Thorne commands the Tiger's Claw and he is subordinate to a flag officer commanding the carrier group.
 
-The Ralari captured in Kurosawa II is important as the Confed found on it a prototype phase shield system, which prompted the development of bombers as well as similar systems for its own capital ships. That would explain the Code Blue which is never seen again in the games. That could be a meaning that material crucial to security and intelligence has been found. That would also explain why Kilrathi rush to retake it instead of trying to destroy it, a bit too much fuss for a single destroyer (yes, it is a capital ship, but it is not a cruiser or a frigate). [kingmakeress]
+The Ralari captured in Kurosawa II is important as the Confed found on it a prototype phase shield system, which prompted the development of bombers as well as similar systems for its own capital ships. That would explain the Code Blue which is never seen again in the games. That could be a meaning that material crucial to security and intelligence has been found. That would also explain why Kilrathi rush to retake it instead of trying to destroy it, a bit too much fuss for a single destroyer (yes, it is a capital ship, but it is not a cruiser or a frigate). That would also possibly explain in-universe why it has weak armor as it had to be stripped in order to make room for an early version of the experimental phase generator [kingmakeress]
+
+Once the Confederation realized what the Kilrathi are up to, they tried to quickly fill the gap with improvised missile boats, maybe modified Scimitars in an effort to repurpose them. The advent of Rapier in conjunction with the inefficiency of the Scimitar, which implied among others the need for more escorts, prompted the Confederation to begin the development of the Broadsword. [kingmakeress]
+
+The existence or development of low observability, namely stealth, fighters should also be examined. The Terran Confederation must have had such knowledge in its vast databases and probably Kilrathi had similar concepts, perhaps in precusors of the Strakha. Do not confuse it with the latter, though. Perhaps a modified Dralthi? [kingmakeress]
 
 I like the idea of the electronic warfare fighter from the novels. [kingmakeress]
 
