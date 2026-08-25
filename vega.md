@@ -92,19 +92,20 @@ The Dan Harmon's (*Community*, *Rick and Morty*) [hero journey](https://www.stud
 ###  Working ideas
 
 
-The following table has the acronyms used throughout the lore. Acronyms with multiple meanings appear in separate rows sorted lexicographically based on the respective meanings.
+The following table has the acronyms used throughout the lore. Acronyms with multiple meanings appear in separate rows sorted lexicographically based on the respective meanings. Abbreviations of service ranks appear in separate tables.
 
 |  **Acronym** | **Meaning**  |
 |  :--- | :---- |
-|  KIN  |  Kilrathi Imperial Navy |
-|  KIS  |  Kilrathi Imperial Starship |
+|  CSS  |  Confederation Starship - **not** used  |
+|  KIN  |  Kilrathi Imperial Navy  |
+|  KIS  |  Kilrathi Imperial Starship  |
 |  TCN  |  Terran Cable News  |
 |  TCN  |  Terran Confederation Navy (just Navy)  |
 |  TCS  |  Terran Confederation Starship  |
 |  TCSF  |  Terran Confederation Space Force  |
 
 
-Should the TCSF officer ranks be reworked? 
+Should the TCSF officer ranks be reworked? In real life only the UK have separate rank names for the airforce, all other countries use the name of the respective army rank as most air forces evolved from army air corps or comparable formations e.g. the [USAAF](https://en.wikipedia.org/wiki/United_States_Army_Air_Forces).
 
 The suffix for Terran ships is TCS as in WC2 onwards and not CSS as in WC1.
 
