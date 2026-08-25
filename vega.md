@@ -4,7 +4,7 @@
 
 ##  Document changes
 *  25.Aug.2026: Added stealth fighters and early Confederation attempts to develop missile boats. [kingmakeress]
-*  **Also:**  Added the *references* section. [kingmakeress]
+*  Also: Added the *references* section. [kingmakeress]
 *  23.Aug.2026: Added the *factions* section and preliminary ideas on the Kilrathi. [kingmakeress]
 *  21.Aug.2026: Added working ideas and an OC character. [DireWolf + kingmakeress]
 *  20.Aug.2026: Initial version. [kingmakeress]
@@ -73,11 +73,6 @@ The basic rules for coordinating the contributors follow:
 ##  Working ideas
 
 
-|  **Links to Privateer** | |
-|  :--- | :---- |
-|  Taryn Cross | Former pilot |
-|  Admiral Kahl | Can be one of the secondary antagonists  |
-
 Should the Terran Confederation Space Force (TCSF) officer ranks be reworked? 
 
 The Tiger's Claw has escorts, possibly a frigate and two or three destroyers similar to the Victory having two destroyer escorts.
@@ -89,8 +84,6 @@ The Ralari captured in Kurosawa II is important as the Confed found on it a prot
 Once the Confederation realized what the Kilrathi are up to, they tried to quickly fill the gap with improvised missile boats, maybe modified Scimitars in an effort to repurpose them. The advent of Rapier in conjunction with the inefficiency of the Scimitar, which implied among others the need for more escorts, prompted the Confederation to begin the development of the Broadsword. [kingmakeress]
 
 The existence or development of low observability, namely stealth, fighters should also be examined. The Terran Confederation must have had such knowledge in its vast databases and probably Kilrathi had similar concepts, perhaps in precusors of the Strakha. Do not confuse it with the latter, though. It is not a cloaked fighter. Perhaps a modified Dralthi? The real world story of F-117 or the lore of fictional stealth aircrafts like F-19 may serve as inspiration [kingmakeress]
-
-Taryn Cross may make an appearance as a pilot. Probably she had logged some hours in the cockpit before joining the Exploratory Services, at least her clothes seem to imply that. [kingmakeress]
 
 I like the idea of the electronic warfare fighter from the novels. [kingmakeress]
 
@@ -108,7 +101,16 @@ Thrakath is killed in an space duel with Maverick.
 
 The proposed ending avoids the problem of blasting Kilrathi civilians with the Templor bomb.
 
+|  **Links to Privateer** | **Role**  |
+|  :--- | :---- |
+|  Taryn Cross | Former pilot |
+|  Admiral Kahl | Can be one of the secondary antagonists  |
+
 Admiral Kahl may appear as one of the secondary antagonists .. after all he hasn't run into Grayson Burrows yet. [kingmakeress]
+
+Taryn Cross may make an appearance as a pilot. Probably she had logged some hours in the cockpit before joining the Exploratory Services, at least her clothes seem to imply that. [kingmakeress]
+
+As a general note, it may be not a good idea to connect every Privateer character to WC1 or WC2. Still, some references may help expand the lore. [kingmakeress]
 
 
 ##  Characters
