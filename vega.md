@@ -111,7 +111,7 @@ The suffix for Terran ships is TCS as in WC2 onwards and not CSS as in WC1.
 
 The Tiger's Claw has escorts, possibly a frigate and two or three destroyers similar to the Victory having two destroyer escorts.
 
-Captain Thorne commands the Tiger's Claw and he is subordinate to a flag officer commanding the carrier group.
+Captain Thorne commands the Tiger's Claw and he is subordinate to a flag officer commanding the carrier group. Colonel Halcyon commands the 88th fighter wing which is subdivided in the squadrons mentioned in WC1 with probably more which have not been mentioned in the game but are consistent with the lore and the era. Colonel Roberts serves in the tactical division and clearly survived Claw's destruction.
 
 The Ralari captured in Kurosawa II is important as the Confed found on it a prototype phase shield system, which prompted the development of bombers as well as similar systems for its own capital ships. That would explain the Code Blue which is never seen again in the games as it is signifies that material crucial to security and intelligence has been found. That would also explain why the Confed took it intact and why Kilrathi rush to destroy it, a bit too much fuss for a single destroyer. Yes, it is a capital ship, but it is not a cruiser or a frigate. That would also explain in-universe why it is a very important mission and also why the Ralari has weaker armor:
 *  Many armor plates have been stripped to make room for an early version of the experimental phase generator, which is bulky being still under development and additionally has many diagnostics and telemetry equipment attached to it.
