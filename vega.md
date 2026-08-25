@@ -47,7 +47,7 @@ The basic rules for coordinating the contributors follow:
 ###  Ground rules
 The twofold premise of this project is the following:
 *  Be as close as possible to the spirit of the original games.
-*  Keep the original premise by Chris Roberts: Top Gun meets Star Wars.
+*  Keep the original premise by Chris Roberts: *Top Gun meets Star Wars*.
 
 The ground rules for the story writing are summarized here:
 *  Keep the suspension of disbelief.
@@ -70,9 +70,9 @@ The main lore changes in this work compared to the games are:
 *  Hunter lives.
 *  There are new ranks for the Space Force to avoid confusion with those from other branches, most notably that of Captain.
 
-The hero journey of Maverick must be carefully examined as it will be the basis of the story. Especially his background and his unique heritsage. Moreover, the relationship to Angel feels a bit forced in the games. Maybe use Dan Harmon's template journey?
+The hero journey of Maverick must be carefully examined as it will be the basis of the story. Especially his background and his unique heritage. Moreover, the relationship to Angel feels a bit forced in the games. Thus, it should feel more natural here.
 
-The Dan Harmon's (*Community*, *Rick and Morty*) [hero journey](https://www.studiobinder.com/blog/dan-harmon-story-circle/) has the following eight steps:
+The Dan Harmon's (*Community*, *Rick and Morty*) [hero journey](https://www.studiobinder.com/blog/dan-harmon-story-circle/) can be used as the basis of Maverick's arc. It has the following eight steps:
 *  **You:** A character is in a zone of comfort,
 *  **Need:** But they want something.
 *  **Go:** They enter an unfamiliar situation,
@@ -86,13 +86,26 @@ The Dan Harmon's (*Community*, *Rick and Morty*) [hero journey](https://www.stud
 ###  Working ideas
 
 
-Should the Terran Confederation Space Force (TCSF) officer ranks be reworked? 
+The following table has the acronyms used throughout the lore.
+
+|  **Acronym** | **Meaning**  |
+|  :--- | :---- |
+|  IKN |  Imperial Kilrathi Navy |
+|  TCN |  Terran Cable News  |
+|  TCN |  Terran Confederation Navy (just Navy)  |
+|  TCS |  Terran Confederation Starship  |
+|  TCSF  |  Terran Confederation Space Force  |
+
+
+Should the TCSF officer ranks be reworked? 
 
 The Tiger's Claw has escorts, possibly a frigate and two or three destroyers similar to the Victory having two destroyer escorts.
 
 Captain Thorne commands the Tiger's Claw and he is subordinate to a flag officer commanding the carrier group.
 
-The Ralari captured in Kurosawa II is important as the Confed found on it a prototype phase shield system, which prompted the development of bombers as well as similar systems for its own capital ships. That would explain the Code Blue which is never seen again in the games. That could be a meaning that material crucial to security and intelligence has been found. That would also explain why Kilrathi rush to retake it instead of trying to destroy it, a bit too much fuss for a single destroyer (yes, it is a capital ship, but it is not a cruiser or a frigate). That would also possibly explain in-universe why it has weak armor as it had to be stripped in order to make room for an early version of the experimental phase generator [kingmakeress]
+The Ralari captured in Kurosawa II is important as the Confed found on it a prototype phase shield system, which prompted the development of bombers as well as similar systems for its own capital ships. That would explain the Code Blue which is never seen again in the games as it is signifies that material crucial to security and intelligence has been found. That would also explain why the Confed took it intact and why Kilrathi rush to destroy it, a bit too much fuss for a single destroyer. Yes, it is a capital ship, but it is not a cruiser or a frigate. That would also explain in-universe why it is a very important mission and also why the Ralari has weaker armor:
+*  Many armor plates have been stripped in order either to make room for an early version of the experimental phase generator, which is probably bulky being still under development and additionally has many diagnostics and telemetry equipment attached to it.
+*  Additionally, now that the Ralari is protected by stronger shields it can do away with armor in favor of additional maneuverability, perhaps as part of a new IKN doctrine. [kingmakeress]
 
 Once the Confederation realized what the Kilrathi are up to, they tried to quickly fill the gap with improvised missile boats, maybe modified Scimitars in an effort to repurpose them. The advent of Rapier in conjunction with the inefficiency of the Scimitar, which implied among others the need for more escorts, prompted the Confederation to begin the development of the Broadsword. [kingmakeress]
 
@@ -110,20 +123,20 @@ In WC2 Thrakath's reasons for destroying the shipyards to deny them to Confed an
 
 Thrakath in his own story is the hero. He has only daughters from his concubines and he wants to make a very big deed, namely conquering the Terrans, so that the Kilrathi will accept one of his daughters as a future empress. Also Thrakath has a nephew who is close to him.
 
-Thrakath is killed in an space duel with Maverick.
+Thrakath is killed in an long space duel with Maverick. His Bloodfang fighter gives him a clear technological edge and he is no novice pilot either ..
 
 The proposed ending avoids the problem of blasting Kilrathi civilians with the Templor bomb.
 
 |  **Links to Privateer** | **Role**  |
 |  :--- | :---- |
-|  Taryn Cross | Former pilot |
+|  Taryn Cross | Former Confederation pilot |
 |  Admiral Kahl | Can be one of the secondary antagonists  |
 
 Admiral Kahl may appear as one of the secondary antagonists .. after all he hasn't run into Grayson Burrows yet. [kingmakeress]
 
 Taryn Cross may make an appearance as a pilot. Probably she had logged some hours in the cockpit before joining the Exploratory Services, at least her clothes seem to imply that. [kingmakeress]
 
-As a general note, it may be not a good idea to connect every Privateer character to WC1 or WC2. Still, some references may help expand the lore. [kingmakeress]
+As a general note, it may be not a good idea to connect every single Privateer character to WC1 or WC2 so that it can retain some independence storywise. Still, some references may help expand the lore. [kingmakeress]
 
 
 ###  Characters
