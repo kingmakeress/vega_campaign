@@ -142,7 +142,9 @@ As a general note, it may be not a good idea to connect every single Privateer c
 ###  Characters
 
 
-**Maverick:**  As a young pilot, he is the rising star of Tiger's Claw. He has more than skills. More like Obi Wan, not so much like Luke Skywalker. Has flaws.
+**Maverick:**  As a young pilot, he is the rising star of Tiger's Claw. He has more than skills. More like Obi Wan, not so much like Luke Skywalker. Has flaws. I like his description of Jeffersonian gentleman, but the term must be explained for people not familiar with the term.
+
+**Tolwyn:**  I like the WC2 and the movie Tolwyn more, in thar order. WC3 Tolwyn is beginning to show the tear caused by the war. [kingmakeress]
 
 **Colonel Kong Yun (OC):**  Commander of the Claw's Marines. Kong is his family name and Yun is his first name. Will probably be given more time in ground missions or when boarding ships. Maybe he and his Marines help from outside the Confed Marines inside Drayman in SM2 to retake the ship.
 
@@ -150,9 +152,9 @@ As a general note, it may be not a good idea to connect every single Privateer c
 ###  Factions
 
 
-**Kilrathi:**  Villains can make or break a story, therefore Kilrathi must be interesting. Primarily they should have convincing motives with respect to their culture and history, not necessarily in the way Terrans perceive them. A good starting point would be the Confederation Handbook which has an elaborate psychological profile of the Kilrathi military as well as Freedom Flight which portrays the Kilrathi society [kingmakeress]
+**Kilrathi:**  Villains can make or break a story, therefore Kilrathi must be interesting. Primarily they should have convincing motives with respect to their culture and history, not necessarily in the way Terrans perceive them. A good starting point would be the Confederation Handbook which has an elaborate psychological profile of the Kilrathi military as well as Freedom Flight which portrays the Kilrathi society. [kingmakeress]
 
-**Terrans:**  More like United Nations in space? [kingmakress]
+**Terrans:**  More like United Nations in space? Initially cautious of the mysterious enemy, enthusiastic after a few quick victories, then beginning to realize who they are really against. [kingmakress]
 
 
 ###  References
