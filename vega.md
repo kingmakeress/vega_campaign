@@ -5,6 +5,8 @@
 
 
 ###  Document changes
+
+
 *  25.Aug.2026: Added stealth fighters and early Confederation attempts to develop missile boats. [kingmakeress]
 *  Also: Added the *references* section. [kingmakeress]
 *  23.Aug.2026: Added the *factions* section and preliminary ideas on the Kilrathi. [kingmakeress]
@@ -14,10 +16,14 @@
 
 
 ###  Outline
+
+
 *Wing Commander: The Vega Campaign* is a fanfic retelling of the Wing Commander games story. This project is largely based on the chapters of the *Wing Commander: The Vega Campaign* written originally by DireWolf.
 
 
-###  Contributors
+###  Kudos
+
+
 **Editors:** DireWolf, kingmakeress
 
 **Contributors:** More to be added.
