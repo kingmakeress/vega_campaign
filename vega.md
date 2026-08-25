@@ -92,18 +92,21 @@ The Dan Harmon's (*Community*, *Rick and Morty*) [hero journey](https://www.stud
 ###  Working ideas
 
 
-The following table has the acronyms used throughout the lore.
+The following table has the acronyms used throughout the lore. Acronyms with multiple meanings appear in separate rows sorted lexicographically based on the respective meanings.
 
 |  **Acronym** | **Meaning**  |
 |  :--- | :---- |
-|  IKN |  Imperial Kilrathi Navy |
-|  TCN |  Terran Cable News  |
-|  TCN |  Terran Confederation Navy (just Navy)  |
-|  TCS |  Terran Confederation Starship  |
+|  KIN  |  Kilrathi Imperial Navy |
+|  KIS  |  Kilrathi Imperial Starship |
+|  TCN  |  Terran Cable News  |
+|  TCN  |  Terran Confederation Navy (just Navy)  |
+|  TCS  |  Terran Confederation Starship  |
 |  TCSF  |  Terran Confederation Space Force  |
 
 
 Should the TCSF officer ranks be reworked? 
+
+The suffix for Terran ships is TCS as in WC2 onwards and not CSS as in WC1.
 
 The Tiger's Claw has escorts, possibly a frigate and two or three destroyers similar to the Victory having two destroyer escorts.
 
@@ -111,7 +114,7 @@ Captain Thorne commands the Tiger's Claw and he is subordinate to a flag officer
 
 The Ralari captured in Kurosawa II is important as the Confed found on it a prototype phase shield system, which prompted the development of bombers as well as similar systems for its own capital ships. That would explain the Code Blue which is never seen again in the games as it is signifies that material crucial to security and intelligence has been found. That would also explain why the Confed took it intact and why Kilrathi rush to destroy it, a bit too much fuss for a single destroyer. Yes, it is a capital ship, but it is not a cruiser or a frigate. That would also explain in-universe why it is a very important mission and also why the Ralari has weaker armor:
 *  Many armor plates have been stripped to make room for an early version of the experimental phase generator, which is bulky being still under development and additionally has many diagnostics and telemetry equipment attached to it.
-*  Additionally, now that the Ralari is protected by stronger shields it can do away with armor in favor of additional maneuverability, perhaps as part of a new IKN doctrine. [kingmakeress]
+*  Additionally, now that the Ralari is protected by stronger shields it can do away with armor in favor of additional maneuverability, perhaps as part of a new KIN doctrine. [kingmakeress]
 
 Once the Confederation realized what the Kilrathi are up to, they tried to quickly fill the gap with improvised missile boats, maybe modified Scimitars in an effort to repurpose them. The advent of Rapier in conjunction with the inefficiency of the Scimitar, which implied among others the need for more escorts, prompted the Confederation to begin the development of the Broadsword. [kingmakeress]
 
