@@ -4,7 +4,7 @@
 
 ##  Document changes
 *  25.Aug.2026: Added stealth fighters and early Confederation attempts to develop missile boats. [kingmakeress]
-*               Added the *references* section. [kingmakeress]
+*  **Also:**  Added the *references* section. [kingmakeress]
 *  23.Aug.2026: Added the *factions* section and preliminary ideas on the Kilrathi. [kingmakeress]
 *  21.Aug.2026: Added working ideas and an OC character. [DireWolf + kingmakeress]
 *  20.Aug.2026: Initial version. [kingmakeress]
