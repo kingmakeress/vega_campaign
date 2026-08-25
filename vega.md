@@ -1,6 +1,12 @@
 #  Wing Commander: The Vega Campaign
 
 
+##  Introduction
+
+
+This file documents the guidelines of the *Wing Commander: The Vega Campaign* fan fiction project.
+
+
 ##  The project
 
 
@@ -8,7 +14,7 @@
 
 
 *  25.Aug.2026: Added stealth fighters and early Confederation attempts to develop missile boats. [kingmakeress]
-*  Also: Added the *references* section. [kingmakeress]
+*  Also: Added the *introduction* and *references* sections. [kingmakeress]
 *  23.Aug.2026: Added the *factions* section and preliminary ideas on the Kilrathi. [kingmakeress]
 *  21.Aug.2026: Added working ideas and an OC character. [DireWolf + kingmakeress]
 *  20.Aug.2026: Initial version. [kingmakeress]
