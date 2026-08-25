@@ -22,6 +22,10 @@
 
 Special thanks to LOAF.
 
+The basic rules for coordinating the contributors follow:
+*  Do weekly or bi-weekly meetings to refine this document and/or the chapters.
+*  Send the agenda at least three days earlier to the participants have sufficient time to organize their notes.
+
 
 ##  Ground rules
 The twofold premise of this project is the following:
@@ -51,7 +55,7 @@ The main lore changes in this work compared to the games are:
 
 The hero journey of Maverick must be carefully examined as it will be the basis of the story. Especially his background and his unique heritsage. Moreover, the relationship to Angel feels a bit forced in the games. Maybe use Dan Harmon's template journey?
 
-The Dan Harmon's (*Community*, *Rick and Morty*) hero journey [link](https://www.studiobinder.com/blog/dan-harmon-story-circle/) has the following eight steps:
+The Dan Harmon's (*Community*, *Rick and Morty*) [hero journey](https://www.studiobinder.com/blog/dan-harmon-story-circle/) has the following eight steps:
 *  **You:** A character is in a zone of comfort,
 *  **Need:** But they want something.
 *  **Go:** They enter an unfamiliar situation,
@@ -60,14 +64,6 @@ The Dan Harmon's (*Community*, *Rick and Morty*) hero journey [link](https://www
 *  **Take:** Pay a heavy price for it, 
 *  **Return:** Then return to their familiar situation, 
 *  **Change:** Having changed.
-
-
-##  Collaboration rules
-
-
-The basic rules for coordinating the contributors follow:
-*  Do weekly or bi-weekly meetings to refine this document and/or the chapters.
-*  Send the agenda at least three days earlier to the participants have sufficient time to organize their notes.
 
 
 ##  Working ideas
