@@ -2,7 +2,10 @@
 #  Project outline
 
 
-##  Document changes
+##  The project
+
+
+###  Document changes
 *  25.Aug.2026: Added stealth fighters and early Confederation attempts to develop missile boats. [kingmakeress]
 *  Also: Added the *references* section. [kingmakeress]
 *  23.Aug.2026: Added the *factions* section and preliminary ideas on the Kilrathi. [kingmakeress]
@@ -11,11 +14,11 @@
 *  18.Aug.2026: Original draft based on discord conversation. [DireWolf + kingmakeress]
 
 
-##  Outline
+###  Outline
 *Wing Commander: The Vega Campaign* is a fanfic retelling of the Wing Commander games story. This project is largely based on the chapters of the *Wing Commander: The Vega Campaign* written originally by DireWolf.
 
 
-##  Contributors
+###  Contributors
 **Editors:** DireWolf, kingmakeress
 
 **Contributors:** More to be added.
@@ -27,7 +30,16 @@ The basic rules for coordinating the contributors follow:
 *  Send the agenda at least three days earlier to the participants have sufficient time to organize their notes.
 
 
-##  Ground rules
+###  Actions
+
+*  Reach out to LOAF for advice on lore.
+*  Contact remake developers and try to find common ground lore-wise. Still, respect their work as they are independent projects and possibly way too far in development for major changes.
+
+
+##  The lore
+
+
+###  Ground rules
 The twofold premise of this project is the following:
 *  Be as close as possible to the spirit of the original games.
 *  Keep the original premise by Chris Roberts: Top Gun meets Star Wars.
@@ -66,7 +78,7 @@ The Dan Harmon's (*Community*, *Rick and Morty*) [hero journey](https://www.stud
 *  **Change:** Having changed.
 
 
-##  Working ideas
+###  Working ideas
 
 
 Should the Terran Confederation Space Force (TCSF) officer ranks be reworked? 
@@ -109,7 +121,7 @@ Taryn Cross may make an appearance as a pilot. Probably she had logged some hour
 As a general note, it may be not a good idea to connect every Privateer character to WC1 or WC2. Still, some references may help expand the lore. [kingmakeress]
 
 
-##  Characters
+###  Characters
 
 
 **Maverick:**  As a young pilot, he is the rising star of Tiger's Claw. He has more than skills. More like Obi Wan, not so much like Luke Skywalker. Has flaws.
@@ -117,7 +129,7 @@ As a general note, it may be not a good idea to connect every Privateer characte
 **Colonel Kong Yun (OC):**  Commander of the Claw's Marines. Kong is his family name and Yun is his first name. Will probably be given more time in ground missions or when boarding ships. Maybe he and his Marines help from outside the Confed Marines inside Drayman in SM2 to retake the ship.
 
 
-##  Factions
+###  Factions
 
 
 **Kilrathi:**  Villains can make or break a story, therefore Kilrathi must be interesting. Primarily they should have convincing motives with respect to their culture and history, not necessarily in the way Terrans perceive them. A good starting point would be the Confederation Handbook which has an elaborate psychological profile of the Kilrathi military as well as Freedom Flight which portrays the Kilrathi society [kingmakeress]
@@ -125,13 +137,7 @@ As a general note, it may be not a good idea to connect every Privateer characte
 **Terrans:**  More like United Nations in space? [kingmakress]
 
 
-##  References
+###  References
 
 
-There is now confirmation that the Mars Steltek site Dr Monkhouse discovered is not a reference to the 2001 monolith. [kingmakeress]
-
-
-##  Actions
-
-*  Reach out to LOAF for advice on lore.
-*  Contact remake developers and try to find common ground lore-wise. Still, respect their work as they are independent projects and possibly way too far in development for major changes.
+There is now confirmation from the discord server that the Mars Steltek site Dr Monkhouse discovered is not a reference to the 2001 monolith. [kingmakeress]
