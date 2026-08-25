@@ -1,5 +1,4 @@
 #  Wing Commander: The Vega Campaign
-#  Project outline
 
 
 ##  The project
