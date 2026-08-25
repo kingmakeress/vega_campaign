@@ -3,7 +3,8 @@
 
 
 ##  Document changes
-*  25.Aug.2026: Added ideas on stealth (not cloaked) fighters and early Confederation attempts to develop missile boats. [kingmakeress]
+*  25.Aug.2026: Added stealth fighters and early Confederation attempts to develop missile boats. [kingmakeress]
+*               Added the *references* section. [kingmakeress]
 *  23.Aug.2026: Added the *factions* section and preliminary ideas on the Kilrathi. [kingmakeress]
 *  21.Aug.2026: Added working ideas and an OC character. [DireWolf + kingmakeress]
 *  20.Aug.2026: Initial version. [kingmakeress]
@@ -72,6 +73,11 @@ The basic rules for coordinating the contributors follow:
 ##  Working ideas
 
 
+|  **Links to Privateer** | |
+|  :--- | :---- |
+|  Taryn Cross | Former pilot |
+|  Admiral Kahl | Can be one of the secondary antagonists  |
+
 Should the Terran Confederation Space Force (TCSF) officer ranks be reworked? 
 
 The Tiger's Claw has escorts, possibly a frigate and two or three destroyers similar to the Victory having two destroyer escorts.
@@ -82,7 +88,9 @@ The Ralari captured in Kurosawa II is important as the Confed found on it a prot
 
 Once the Confederation realized what the Kilrathi are up to, they tried to quickly fill the gap with improvised missile boats, maybe modified Scimitars in an effort to repurpose them. The advent of Rapier in conjunction with the inefficiency of the Scimitar, which implied among others the need for more escorts, prompted the Confederation to begin the development of the Broadsword. [kingmakeress]
 
-The existence or development of low observability, namely stealth, fighters should also be examined. The Terran Confederation must have had such knowledge in its vast databases and probably Kilrathi had similar concepts, perhaps in precusors of the Strakha. Do not confuse it with the latter, though. Perhaps a modified Dralthi? [kingmakeress]
+The existence or development of low observability, namely stealth, fighters should also be examined. The Terran Confederation must have had such knowledge in its vast databases and probably Kilrathi had similar concepts, perhaps in precusors of the Strakha. Do not confuse it with the latter, though. It is not a cloaked fighter. Perhaps a modified Dralthi? The real world story of F-117 or the lore of fictional stealth aircrafts like F-19 may serve as inspiration [kingmakeress]
+
+Taryn Cross may make an appearance as a pilot. Probably she had logged some hours in the cockpit before joining the Exploratory Services, at least her clothes seem to imply that. [kingmakeress]
 
 I like the idea of the electronic warfare fighter from the novels. [kingmakeress]
 
@@ -98,9 +106,9 @@ Thrakath in his own story is the hero. He has only daughters from his concubines
 
 Thrakath is killed in an space duel with Maverick.
 
-Admiral Kahl may appear as one of the secondary antagonists .. after all he hasn't run into Grayson Burrows yet. [kingmakeress]
-
 The proposed ending avoids the problem of blasting Kilrathi civilians with the Templor bomb.
+
+Admiral Kahl may appear as one of the secondary antagonists .. after all he hasn't run into Grayson Burrows yet. [kingmakeress]
 
 
 ##  Characters
@@ -117,6 +125,12 @@ The proposed ending avoids the problem of blasting Kilrathi civilians with the T
 **Kilrathi:**  Villains can make or break a story, therefore Kilrathi must be interesting. Primarily they should have convincing motives with respect to their culture and history, not necessarily in the way Terrans perceive them. A good starting point would be the Confederation Handbook which has an elaborate psychological profile of the Kilrathi military as well as Freedom Flight which portrays the Kilrathi society [kingmakeress]
 
 **Terrans:**  More like United Nations in space? [kingmakress]
+
+
+##  References
+
+
+There is now confirmation that the Mars Steltek site Dr Monkhouse discovered is not a reference to the 2001 monolith. [kingmakeress]
 
 
 ##  Actions
