@@ -55,7 +55,7 @@ The twofold premise of this project is the following:
 *  Be as close as possible to the spirit of the original games.
 *  Keep the original premise by Chris Roberts: *Top Gun meets Star Wars*.
 
-The ground rules for the story writing are summarized here:
+The ground storytelling rules are:
 *  Keep the suspension of disbelief.
 *  Prefer fleshing out existing characters to introducing new ones, but don't overdo it.
 *  Don't change the games much besides the lore changes listed below.
@@ -68,15 +68,17 @@ The ground rules for the story writing are summarized here:
 *  The only romance will be that between Maverick and Angel.
 *  Thrakath is not a cartoonish villain.
 *  The novels can be ignored if they clash with this timeline.
+*  Promise-driven narrative: Each character has a setup and a promise and the story fulfills it.
+*  Information flows from subtext to context to text.
 
-The main lore changes in this work compared to the games are:
+The primary lore changes in this work compared to the games are:
 *  Kilrah is destroyed following a massive space fight, not by the templor bomb.
 *  Maverick excels in said fight, so he is still the Confederation's hero.
 *  Brimstone and Rostov are on the canonical path.
 *  Hunter lives.
 *  There are new ranks for the Space Force to avoid confusion with those from other branches, most notably that of Captain.
 
-The hero journey of Maverick must be carefully examined as it will be the basis of the story. Especially his background and his unique heritage. Moreover, the relationship to Angel feels a bit forced in the games. Thus, it should feel more natural here.
+The hero journey of Maverick must be carefully examined as it will be the basis of the story. Especially his background and his unique heritage. Moreover, the relationship to Angel feels a bit forced in the games. Thus, it should feel more natural here. An examples of the promise-driven narrative is that Maverick wants to fly the Rapier once the rumors having the now iconic fighter appear to be true through additional security measures and logistic adjustments inconsistent with ordinary Claw operations.
 
 The Dan Harmon's (*Community*, *Rick and Morty*) [hero journey](https://www.studiobinder.com/blog/dan-harmon-story-circle/) can be used as the basis of Maverick's arc. It has the following eight steps:
 *  **You:** A character is in a zone of comfort,
