@@ -71,6 +71,8 @@ The ground storytelling rules are:
 *  Promise-driven narrative: Each character has a setup and a promise and the story fulfills it.
 *  Information flows from subtext to context to text.
 
+![WC1 system path](https://www.wcnews.com/wcpedia/images/Wc1-mission-tree.png "Wing Commander I system path.")
+
 The primary lore changes in this work compared to the games are:
 *  Kilrah is destroyed following a massive space fight, not by the templor bomb.
 *  Maverick excels in said fight, so he is still the Confederation's hero.
