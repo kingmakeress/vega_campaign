@@ -10,19 +10,6 @@ This file documents the guidelines of the *Wing Commander: The Vega Campaign* fa
 ##  The project
 
 
-###  Document changes
-
-
-*  27.Aug.2026: Writing rules augmented. [kingmakeress]
-*  26.Aug:2026: WC1 mission tree added. [kingmakeress]
-*  25.Aug.2026: Added stealth fighters and early Confederation attempts to develop missile boats. [kingmakeress]
-*  Also: Added the *introduction* and *references* sections. [kingmakeress]
-*  23.Aug.2026: Added the *factions* section and preliminary ideas on the Kilrathi. [kingmakeress]
-*  21.Aug.2026: Added working ideas and an OC character. [DireWolf + kingmakeress]
-*  20.Aug.2026: Initial workig draft. [kingmakeress]
-*  18.Aug.2026: Original draft based on discord conversation. [DireWolf + kingmakeress]
-
-
 ###  Outline
 
 
@@ -41,6 +28,21 @@ Special thanks to LOAF.
 The basic rules for coordinating the contributors follow:
 *  Do weekly or bi-weekly meetings to refine this document and/or the chapters.
 *  Send the agenda at least three days earlier to the participants have sufficient time to organize their notes.
+
+
+###  Document changes
+
+
+*  27.Aug.2026: Writing rules augmented. [kingmakeress]
+*  26.Aug:2026: WC1 mission tree added. [kingmakeress]
+*  25.Aug.2026: Added stealth fighters and early Confederation attempts to develop missile boats. [kingmakeress]
+*  Also: Added the *introduction* and *references* sections. [kingmakeress]
+*  23.Aug.2026: Added the *factions* section and preliminary ideas on the Kilrathi. [kingmakeress]
+*  21.Aug.2026: Added working ideas and an OC character. [DireWolf + kingmakeress]
+*  20.Aug.2026: Initial workig draft. [kingmakeress]
+*  18.Aug.2026: Original draft based on discord conversation. [DireWolf + kingmakeress]
+
+This is a live document and has hyperlinks in it. Always verify links before clicking on them.
 
 
 ###  Actions
