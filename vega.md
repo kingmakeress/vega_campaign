@@ -50,14 +50,24 @@ The basic rules for coordinating the contributors follow:
 ##  The lore
 
 
-###  Ground rules
+###  Ground rules and premise
+
+
+In this section the premise of the story as well as the writing rules are laid out. Also a metarule on how to follow these rules is given.
+
 The twofold premise of this project is the following:
 *  Be as close as possible to the spirit of the original games.
 *  Keep the original premise by Chris Roberts: *Top Gun meets Star Wars*.
 
+There will be probably many rules in this section. As a metarule, these rules are not cast in stone, but consistency is key.
+
 The ground storytelling rules are:
 *  Keep the suspension of disbelief.
+*  [Chekhov's gun](https://en.wikipedia.org/wiki/Chekhov's_gun) rule applies here.
 *  Prefer fleshing out existing characters to introducing new ones, but don't overdo it.
+*  Avoid the Star Wars plague: Not every single reference has to be explained or expanded upon.
+*  Promise-driven narrative: Each character has a setup and a promise and the story fulfills it.
+*  Information flows from subtext to context to text.
 *  Don't change the games much besides the lore changes listed below.
 *  Whenever possible give space fights and duels.
 *  The tone for the chapters are epic for WC1, epic and dark for WC2, and dark for WC3.
@@ -67,29 +77,29 @@ The ground storytelling rules are:
 *  Give emphasis to Maverick as he will be the main character (MC) and not Tolwyn.
 *  The only romance will be that between Maverick and Angel.
 *  Thrakath is not a cartoonish villain.
-*  The novels can be ignored if they clash with this timeline.
-*  Promise-driven narrative: Each character has a setup and a promise and the story fulfills it.
-*  Information flows from subtext to context to text.
+
+The mission tree from the original game is shown below. It will be used as a reference for the systems and the missions in the story.
 
 ![WC1 system path](https://www.wcnews.com/wcpedia/images/Wc1-mission-tree.png "Wing Commander I system path.")
 
-The primary lore changes in this work compared to the games are:
+The primary lore changes of this work are:
+*  The novels can be ignored if they clash with this timeline.
 *  Kilrah is destroyed following a massive space fight, not by the templor bomb.
 *  Maverick excels in said fight, so he is still the Confederation's hero.
-*  Brimstone and Rostov are on the canonical path.
+*  Brimstone and Rostov are on the canonical path. Thus the canonical campaign is the entire left half of the above mission tree.
 *  Hunter lives.
 *  There are new ranks for the Space Force to avoid confusion with those from other branches, most notably that of Captain.
 
 The hero journey of Maverick must be carefully examined as it will be the basis of the story. Especially his background and his unique heritage. Moreover, the relationship to Angel feels a bit forced in the games. Thus, it should feel more natural here. An examples of the promise-driven narrative is that Maverick wants to fly the Rapier once the rumors having the now iconic fighter appear to be true through additional security measures and logistic adjustments inconsistent with ordinary Claw operations.
 
-The Dan Harmon's (*Community*, *Rick and Morty*) [hero journey](https://www.studiobinder.com/blog/dan-harmon-story-circle/) can be used as the basis of Maverick's arc. It has the following eight steps:
-*  **You:** A character is in a zone of comfort,
+The Dan Harmon's (*Community*, *Rick and Morty*) [hero journey](https://www.studiobinder.com/blog/dan-harmon-story-circle/) can be used as the basis of Maverick's arc. This joutney is based on Joseph Campbell's *A hero with a thousand faces* [book](https://en.wikipedia.org/wiki/The_Hero_with_a_Thousand_Faces) from the field of comparative mythology. Harmon's hero arc has the following eight steps:
+*  **You:** A character is in a zone of comfort.
 *  **Need:** But they want something.
-*  **Go:** They enter an unfamiliar situation,
-*  **Search:** Adapt to it,
-*  **Find:** Get what they wanted, 
-*  **Take:** Pay a heavy price for it, 
-*  **Return:** Then return to their familiar situation, 
+*  **Go:** They enter an unfamiliar situation.
+*  **Search:** Adapt to it.
+*  **Find:** Get what they wanted.
+*  **Take:** Pay a heavy price for it.
+*  **Return:** Then return to their familiar situation.
 *  **Change:** Having changed.
 
 
