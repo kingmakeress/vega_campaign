@@ -13,11 +13,13 @@ This file documents the guidelines of the *Wing Commander: The Vega Campaign* fa
 ###  Document changes
 
 
+*  27.Aug.2026: Writing rules augmented. [kingmakeress]
+*  26.Aug:2026: WC1 mission tree added. [kingmakeress]
 *  25.Aug.2026: Added stealth fighters and early Confederation attempts to develop missile boats. [kingmakeress]
 *  Also: Added the *introduction* and *references* sections. [kingmakeress]
 *  23.Aug.2026: Added the *factions* section and preliminary ideas on the Kilrathi. [kingmakeress]
 *  21.Aug.2026: Added working ideas and an OC character. [DireWolf + kingmakeress]
-*  20.Aug.2026: Initial version. [kingmakeress]
+*  20.Aug.2026: Initial workig draft. [kingmakeress]
 *  18.Aug.2026: Original draft based on discord conversation. [DireWolf + kingmakeress]
 
 
@@ -43,7 +45,7 @@ The basic rules for coordinating the contributors follow:
 
 ###  Actions
 
-*  Reach out to LOAF for advice on lore.
+*  Reach out to LOAF for advice on lore. [**done**]
 *  Contact remake developers and try to find common ground lore-wise. Still, respect their work as they are independent projects and possibly way too far in development for major changes.
 
 
