@@ -36,13 +36,13 @@ The basic rules for coordinating the contributors follow:
 *  27.Aug.2026: Writing rules augmented. [kingmakeress]
 *  26.Aug:2026: WC1 mission tree added. [kingmakeress]
 *  25.Aug.2026: Added stealth fighters and early Confederation attempts to develop missile boats. [kingmakeress]
-*  Also: Added the *introduction* and *references* sections. [kingmakeress]
+*  *Also:* Added the *introduction* and *references* sections. [kingmakeress]
 *  23.Aug.2026: Added the *factions* section and preliminary ideas on the Kilrathi. [kingmakeress]
 *  21.Aug.2026: Added working ideas and an OC character. [DireWolf + kingmakeress]
 *  20.Aug.2026: Initial workig draft. [kingmakeress]
 *  18.Aug.2026: Original draft based on discord conversation. [DireWolf + kingmakeress]
 
-This is a live document and has hyperlinks in it. Always verify links before clicking on them.
+This is a live document and has hyperlinks in it. **Always** verify links before clicking on them.
 
 
 ###  Actions
@@ -61,7 +61,7 @@ In this section the premise of the story as well as the writing rules are laid o
 
 The twofold premise of this project is the following:
 *  Be as close as possible to the spirit of the original games.
-*  Keep the original premise by Chris Roberts: *Top Gun meets Star Wars*.
+*  Keep the original premise by Chris Roberts: *Top Gun* meets *Star Wars*.
 
 There will be probably many rules in this section. As a metarule, these rules are not cast in stone, but consistency is key.
 
