@@ -33,6 +33,7 @@ The basic rules for coordinating the contributors follow:
 ###  Document changes
 
 
+*  9.Sep.2026: More on Kilrathi. [kingmakeress + DireWolf]
 *  27.Aug.2026: Writing rules augmented. [kingmakeress]
 *  26.Aug:2026: WC1 mission tree added. [kingmakeress]
 *  25.Aug.2026: Added stealth fighters and early Confederation attempts to develop missile boats. [kingmakeress]
@@ -180,7 +181,9 @@ As a general note, it may be not a good idea to connect every single Privateer c
 ###  Factions
 
 
-**Kilrathi:**  Villains can make or break a story, therefore Kilrathi must be interesting. Primarily they should have convincing motives with respect to their culture and history, not necessarily in the way Terrans perceive them. A good starting point would be the Confederation Handbook which has an elaborate psychological profile of the Kilrathi military as well as Freedom Flight which portrays the Kilrathi society. [kingmakeress]
+**Kilrathi:**  Villains can make or break a story, therefore Kilrathi must be interesting. So this means they should not be one dimensional or evil for the sake of being evil, though individual characters may exhibit these traits. Primarily the Kilrathi should have convincing and solid motives stemming directly from their culture and history, though not necessarily in the way Terrans perceive them. After all, the Kilrthi may well be hiding part of their motives from Terrans for strategic purposes. Although they fight honorably, this does not exclude on occasion guile, deception, or traps especially as part of pack tactics or when ordered by a superior officer --after all obedience and discipline are deeply engraved in their culture.
+
+A good starting point would be the Confederation Handbook which has an elaborate psychological profile of the Kilrathi military as well as Freedom Flight which portrays the Kilrathi society. [kingmakeress]
 
 **Terrans:**  More like United Nations in space? Initially cautious of the mysterious enemy, enthusiastic after a few quick victories, then beginning to realize who they are really against. [kingmakress]
 
