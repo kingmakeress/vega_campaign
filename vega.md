@@ -23,7 +23,11 @@ This file documents the guidelines of the *Wing Commander: The Vega Campaign* fa
 
 **Contributors:** More to be added.
 
+**Artwork:** Col.SE-mAce 59.
+
 Special thanks to LOAF.
+
+Note: Wherever possible the CIC handles of the contributors are used.
 
 The basic rules for coordinating the contributors follow:
 *  Do weekly or bi-weekly meetings to refine this document and/or the chapters.
